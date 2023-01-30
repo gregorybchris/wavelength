@@ -1,0 +1,9 @@
+{
+  "[csv]": { "editor.formatOnSave": true, "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[json]": { "editor.formatOnSave": true, "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "prettier.printWidth": 120,
+  "editor.detectIndentation": true,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.rulers": [120]
+}
