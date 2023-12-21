@@ -7,6 +7,7 @@ import pandas as pd
 
 RANGE_SIZE = 12
 
+
 @dataclass
 class Pair:
     low: str
